@@ -6,11 +6,11 @@
 
 - 🧑‍💻 I’m currently working on Speech Enhancement and Speech Separation ...
 - 📫 How to reach me: wls@stu.xju.edu.cn ...
-- 👩‍❤️‍👨 Global: Marry Miss Gao.
+- 👩‍❤️‍👨 Goal: Marry Miss Gao.
 -->
 🧑‍💻 I’m currently working on Speech Enhancement and Speech Separation.  
 📫 How to reach me: wls@stu.xju.edu.cn   
-👩‍❤️‍👨 Global: Marry Miss Gao.  
+👩‍❤️‍👨 Goal: Marry Miss Gao.  
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangliusong&layout=compact)](https://github.com/wangliusong/github-readme-stats)  
 
