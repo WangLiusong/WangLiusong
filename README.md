@@ -9,7 +9,8 @@
 - 👩‍❤️‍👨 Global: Marry Miss Gao.
 -->
 🧑‍💻 I’m currently working on Speech Enhancement and Speech Separation.  
-📫 How to reach me: wls@stu.xju.edu.cn.  
+📫 How to reach me: wls@stu.xju.edu.cn   
 👩‍❤️‍👨 Global: Marry Miss Gao.  
 
-![WangLiusong's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangliusong&show_icons=true&theme=radical)
+![WangLiusong's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangliusong&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangliusong&layout=compact)](https://github.com/wangliusong/github-readme-stats)
